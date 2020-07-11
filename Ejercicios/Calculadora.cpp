@@ -7,10 +7,10 @@ int main(){
     cin>>a;
     cout<<"Ingrese el valor de b";
     cin>>b;
-    s= a+b;
-    r= a-b;
-    m= a*b;
-    d= a/b;
+    s=a+b;
+    r=a-b;
+    m=a*b;
+    d=a/b;
     cout<<"El resultado de la suma es:"<<s<<endl;
     cout<<"El resultado de la resta es:"<<r<<endl;
     cout<<"El resultado de la multiplicacion es:"<<m<<endl;
